@@ -1,0 +1,15 @@
+/*GENERAL*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*NAVBAR*/
+html {
+    scroll-behavior: smooth;
+}
+
+/*FOOTER*/
+a {
+    text-decoration: none;
+    color: white;
+}
